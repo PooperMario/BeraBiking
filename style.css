@@ -1,6 +1,7 @@
 h1, p {
   font-family: Lato;
-}body {
+}
+body {
   background-image: url("./src/assets/Background-2.png");
   background-size: cover;
 }
