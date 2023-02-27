@@ -1,4 +1,5 @@
 import React from 'react';
+import './style.css';
 
 const GameEmbed = () => {
   return (
@@ -10,4 +11,3 @@ const GameEmbed = () => {
 };
 
 export default GameEmbed;
-import './style.css';
