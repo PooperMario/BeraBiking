@@ -10,5 +10,4 @@ const GameEmbed = () => {
 };
 
 export default GameEmbed;
-import React from 'react';
 import './style.css';
