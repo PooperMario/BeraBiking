@@ -3,6 +3,6 @@ h1, p {
 }
 
 body {
-  background-image: url("/src/assets/Background-2.png");
+  background-image: url("./src/assets/peengee.png");
   background-size: cover;
 }
